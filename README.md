@@ -2,6 +2,7 @@
 Binary Game
 
 This game is same as a X-O board game but with 0's and 1's
+
 Play by tapping on board cells
 
 The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner.
