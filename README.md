@@ -4,6 +4,10 @@ Binary Game
 This game is same as a X-O board game but with 0's and 1's
 Play by tapping on board cells
 
+The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner.
+
+This project is live at https://mkthakur04.github.io/Binary-Game/
+
 User Interface
 ![Screenshot_20221111_024248](https://user-images.githubusercontent.com/84763123/201307669-41f3fafb-1237-47f6-a3ca-c95c3b07aca8.png)
 
